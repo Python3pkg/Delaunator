@@ -7,7 +7,7 @@
 #########################
 # IMPORTS               #
 #########################
-from delaunator.libdelaunator_src import *
+from .delaunator.libdelaunator_src import *
 
 
 
